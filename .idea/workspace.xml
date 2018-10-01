@@ -13,30 +13,30 @@
     <session id="-1237612736">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="25" />
+          <entry key="java" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="25" />
+          <entry key="JAVA" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3041" />
+          <entry key="java" value="5062" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3041" />
+          <entry key="JAVA" value="5062" />
         </counts>
       </usages-collector>
     </session>
@@ -50,6 +50,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -71,6 +74,16 @@
         <option value="$PROJECT_DIR$/src/Project1_Semaphore/Exchanger_1/ThreadA.java" />
         <option value="$PROJECT_DIR$/src/Project1_Semaphore/Exchanger_1/ThreadB.java" />
         <option value="$PROJECT_DIR$/src/Project1_Semaphore/Exchanger_1/Run.java" />
+        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_1/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_1/MyService.java" />
+        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_1/Run.java" />
+        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_3/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_3/Run.java" />
+        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_2/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_2/ReadyService.java" />
+        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_2/Run.java" />
+        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_4/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_4/Run.java" />
       </list>
     </option>
   </component>
@@ -80,17 +93,20 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="843" />
     <option name="y" value="90" />
     <option name="width" value="1206" />
     <option name="height" value="930" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -99,41 +115,26 @@
               <item name="JavaConcurrent" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaConcurrent" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaConcurrent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConcurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConcurrent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConcurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Project1_Semaphore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConcurrent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConcurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Project1_Semaphore" type="462c0819:PsiDirectoryNode" />
-              <item name="Exchanger_1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/WorkSpace/JavaConcurrent/src/Project1_Semaphore/MoreToOne_2/Run.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538317556322" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538394046175" />
+    <property name="last_opened_file_path" value="D:/Program Files/Git/git-bash.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Project2_CountDownLatchAndCyclicBarrier.CountDownLatch_2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WorkSpace\JavaConcurrent\src\Project1_Semaphore\MoreToOne_2" />
     </key>
@@ -150,26 +151,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run (4)">
+  <component name="RunManager" selected="Application.Run (1)">
     <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Project1_Semaphore.MoreToOne_2.Run" />
+      <option name="MAIN_CLASS_NAME" value="Project2_CountDownLatchAndCyclicBarrier.CountDownLatch_4.Run" />
       <module name="JavaConcurrent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Project1_Semaphore.MoreToOne_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Project1_Semaphore.PoolList.Run" />
-      <module name="JavaConcurrent" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Project1_Semaphore.PoolList.*" />
+          <option name="PATTERN" value="Project2_CountDownLatchAndCyclicBarrier.CountDownLatch_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +191,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Project1_Semaphore.MoreToOne_1.Run" />
+    <configuration name="Run (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project2_CountDownLatchAndCyclicBarrier.CountDownLatch_3.Run" />
       <module name="JavaConcurrent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Project1_Semaphore.MoreToOne_1.*" />
+          <option name="PATTERN" value="Project2_CountDownLatchAndCyclicBarrier.CountDownLatch_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project2_CountDownLatchAndCyclicBarrier.CountDownLatch_2.Run" />
+      <module name="JavaConcurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project2_CountDownLatchAndCyclicBarrier.CountDownLatch_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,19 +218,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Run" />
-      <item itemvalue="Application.Run (1)" />
-      <item itemvalue="Application.Run (2)" />
       <item itemvalue="Application.Run (3)" />
       <item itemvalue="Application.Run (4)" />
+      <item itemvalue="Application.Run (5)" />
+      <item itemvalue="Application.Run" />
+      <item itemvalue="Application.Run (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Run (4)" />
-        <item itemvalue="Application.Run (3)" />
-        <item itemvalue="Application.Run (2)" />
         <item itemvalue="Application.Run (1)" />
         <item itemvalue="Application.Run" />
+        <item itemvalue="Application.Run (5)" />
+        <item itemvalue="Application.Run (5)" />
+        <item itemvalue="Application.Run (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -244,17 +245,18 @@
       <option name="presentableId" value="Default" />
       <updated>1538273276517</updated>
       <workItem from="1538273280438" duration="10286000" />
-      <workItem from="1538317369970" duration="269000" />
+      <workItem from="1538317369970" duration="866000" />
+      <workItem from="1538388361083" duration="5337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10555000" />
+    <option name="totallyTimeSpent" value="16489000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1233" height="735" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25361702" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36459175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -263,8 +265,38 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3807947" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.60746" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45293072" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36459175" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.60746" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45293072" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -282,7 +314,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -321,9 +353,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -352,9 +381,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-515">
           <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -370,10 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding>
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -381,10 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding>
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -392,9 +410,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1311">
           <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -423,6 +438,90 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_1/MyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_1/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_1/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_3/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_3/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_2/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_2/ReadyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_4/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_4/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_2/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
         </state>
       </provider>
     </entry>
