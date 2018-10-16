@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Project5_FutureAndCallable/Test.java" line="50" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cb2670cc-84d5-44c1-93f7-dfdf48508614" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,44 +16,64 @@
     <session id="-1237612736">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.446" value="1" />
-          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="5" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="144" />
+          <entry key="java" value="169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="144" />
+          <entry key="JAVA" value="169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="java" value="12221" />
+          <entry key="java" value="15369" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12221" />
+          <entry key="JAVA" value="15369" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Project6_CompletionService/PollTest/MyCallable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Project6_CompletionService/PollTest/Run1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,16 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_3/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_3/Run.java" />
-        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_2/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_2/ReadyService.java" />
-        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_2/Run.java" />
-        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_4/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_4/Run.java" />
-        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CyclicBarrierBegin/Run.java" />
-        <option value="$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CyclicBarrierBegin/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/Project3_Phaser/Phaser_Test1/ThreadA.java" />
         <option value="$PROJECT_DIR$/src/Project3_Phaser/Phaser_Test1/TheadB.java" />
         <option value="$PROJECT_DIR$/src/Project3_Phaser/Phaser_Test1/ThreadB.java" />
         <option value="$PROJECT_DIR$/src/Project3_Phaser/Phaser_Test1/Run.java" />
@@ -116,6 +129,16 @@
         <option value="$PROJECT_DIR$/src/Project4_ThreadPoolExecutor/ThreadPoolExecutor/RejectedHandlerTest.java" />
         <option value="$PROJECT_DIR$/src/Project4_ThreadPoolExecutor/ThreadPoolExecutor/MyRunnable2.java" />
         <option value="$PROJECT_DIR$/src/Project4_ThreadPoolExecutor/ThreadPoolExecutor/maxAndThreeQueues.java" />
+        <option value="$PROJECT_DIR$/src/Project5_FutureAndCallable/UserInfo.java" />
+        <option value="$PROJECT_DIR$/src/Project5_FutureAndCallable/SetUserInfoRunnable.java" />
+        <option value="$PROJECT_DIR$/src/Project5_FutureAndCallable/CancelTest.java" />
+        <option value="$PROJECT_DIR$/src/Project5_FutureAndCallable/Test.java" />
+        <option value="$PROJECT_DIR$/src/Project6_CompletionService/Test1.java" />
+        <option value="$PROJECT_DIR$/src/Project6_CompletionService/TakeTest/MyCallable.java" />
+        <option value="$PROJECT_DIR$/src/Project6_CompletionService/TakeTest/Test1.java" />
+        <option value="$PROJECT_DIR$/src/Project6_CompletionService/PollTest/MyCallable.java" />
+        <option value="$PROJECT_DIR$/src/Project6_CompletionService/PollTest/Run2.java" />
+        <option value="$PROJECT_DIR$/src/Project6_CompletionService/PollTest/Run1.java" />
       </list>
     </option>
   </component>
@@ -137,7 +160,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,25 +175,17 @@
               <item name="JavaConcurrent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaConcurrent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConcurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Project4_ThreadPoolExecutor" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/WorkSpace/JavaConcurrent/src/Project1_Semaphore/MoreToOne_2/Run.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539428128760" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539682191493" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Mirai-Source-Code-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -176,6 +193,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Project6_CompletionService.PollTest" />
       <recent name="Project2_CountDownLatchAndCyclicBarrier.CountDownLatch_2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -197,13 +215,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.maxAndThreeQueues">
-    <configuration name="RejectedHandlerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Project4_ThreadPoolExecutor.ThreadPoolExecutor.RejectedHandlerTest" />
+  <component name="RunManager" selected="Application.Run1">
+    <configuration name="CancelTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project5_FutureAndCallable.CancelTest" />
       <module name="JavaConcurrent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Project4_ThreadPoolExecutor.ThreadPoolExecutor.*" />
+          <option name="PATTERN" value="Project5_FutureAndCallable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +229,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Project3_Phaser.getPhaser3_5.Run" />
+    <configuration name="Run1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project6_CompletionService.PollTest.Run1" />
       <module name="JavaConcurrent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Project3_Phaser.getPhaser3_5.*" />
+          <option name="PATTERN" value="Project6_CompletionService.PollTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project5_FutureAndCallable.Test" />
+      <module name="JavaConcurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project5_FutureAndCallable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project6_CompletionService.TakeTest.Test1" />
+      <module name="JavaConcurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project6_CompletionService.TakeTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,59 +281,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="newTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Project4_ThreadPoolExecutor.ThreadPoolExecutor.newTest2" />
-      <module name="JavaConcurrent" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Project4_ThreadPoolExecutor.ThreadPoolExecutor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="newTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Project4_ThreadPoolExecutor.ThreadPoolExecutor.newTest4" />
-      <module name="JavaConcurrent" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Project4_ThreadPoolExecutor.ThreadPoolExecutor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="shutDownTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Project4_ThreadPoolExecutor.ThreadPoolExecutor.shutDownTest" />
-      <module name="JavaConcurrent" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Project4_ThreadPoolExecutor.ThreadPoolExecutor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.newTest2" />
-      <item itemvalue="Application.newTest4" />
-      <item itemvalue="Application.shutDownTest" />
-      <item itemvalue="Application.RejectedHandlerTest" />
       <item itemvalue="Application.maxAndThreeQueues" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.CancelTest" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.Run1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Run1" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.CancelTest" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.maxAndThreeQueues" />
-        <item itemvalue="Application.RejectedHandlerTest" />
-        <item itemvalue="Application.shutDownTest" />
-        <item itemvalue="Application.newTest4" />
-        <item itemvalue="Application.newTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -316,11 +321,13 @@
       <workItem from="1539251274800" duration="1073000" />
       <workItem from="1539409397587" duration="4000" />
       <workItem from="1539409419858" duration="9575000" />
+      <workItem from="1539515504458" duration="7493000" />
+      <workItem from="1539678863367" duration="3852000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56092000" />
+    <option name="totallyTimeSpent" value="67437000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -334,7 +341,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21018593" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2166532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -343,7 +350,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497979" weight="0.40319717" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497979" weight="0.3587922" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.6536412" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -401,80 +408,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CountDownLatch_2/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/CyclicBarrier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="261" column="9" lean-forward="true" selection-start-line="261" selection-start-column="9" selection-end-line="261" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CyclicBarrierBegin/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project2_CountDownLatchAndCyclicBarrier/CyclicBarrierBegin/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project3_Phaser/Phaser_test1.java" />
-    <entry file="file://$PROJECT_DIR$/src/Project3_Phaser/Phaser_Test1/ThreadB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project3_Phaser/Phaser_Test1/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project3_Phaser/Phaser_Test1/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project3_Phaser/arriveAndDeregister3_4/ThreadB.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project3_Phaser/arriveAndDeregister3_4/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project3_Phaser/arriveAndDeregister3_4/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project3_Phaser/getPhaser3_5/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Project3_Phaser/getPhaser3_5/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -638,13 +571,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="174" column="5" lean-forward="true" selection-start-line="174" selection-start-column="5" selection-end-line="174" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Project4_ThreadPoolExecutor/Executors/newSingleThreadExecutor/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -677,9 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -687,9 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -697,9 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="15" column="76" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -714,9 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="82" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -724,9 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="8" column="79" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -748,9 +659,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
           <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project5_FutureAndCallable/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project5_FutureAndCallable/SetUserInfoRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project5_FutureAndCallable/CancelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project5_FutureAndCallable/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-606">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project6_CompletionService/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project6_CompletionService/TakeTest/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project6_CompletionService/TakeTest/MyCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="19" selection-start-line="19" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="214" column="34" selection-start-line="214" selection-start-column="34" selection-end-line="214" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project6_CompletionService/PollTest/Run2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project6_CompletionService/PollTest/MyCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/ExecutorCompletionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="181" column="17" lean-forward="true" selection-start-line="181" selection-start-column="17" selection-end-line="181" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/CompletionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project6_CompletionService/PollTest/Run1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
         </state>
       </provider>
     </entry>
